@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "git-commit-reviewer",
+  "version": "1.0.0",
+  "description": "Git Diff를 분석하여 코드 품질, 보안, 성능을 리뷰하고 Conventional Commit 메시지 및 Pull Request 문서를 생성합니다.",
+  "author": {
+    "name": "code reivew master"
+  },
+  "keywords": [
+    "git",
+    "diff",
+    "commit",
+    "pr",
+    "pull request",
+    "code review"
+  ]
+}
