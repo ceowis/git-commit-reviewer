@@ -199,6 +199,9 @@ commit update
 
 ```text
 feat(module): 변경 내용
+```
+
+---
 
 # Git Commit Reviewer 전용 규칙
 
